@@ -19938,7 +19938,7 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
             </entryLink>
           </entryLinks>
           <costs>
-            <cost name="pts" costTypeId="points" value="23.0"/>
+            <cost name="pts" costTypeId="points" value="13.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="9bc4-d7db-bf5b-61f0" name="Chaos Marine with Boltgun" page="0" hidden="false" collective="false" categoryEntryId="(No Category)" type="model">
